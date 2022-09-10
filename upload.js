@@ -1,7 +1,7 @@
 
-accessid= '6MKOqxGiGU4AUk44';
-accesskey= 'ufu7nS8kS59awNihtjSonMETLI0KLy';
-host = 'http://post-test.oss-cn-hangzhou.aliyuncs.com';
+accessid= '';
+accesskey= '';
+host = ''; // 例如：http://post-test.oss-cn-hangzhou.aliyuncs.com
 
 g_dirname = ''
 g_object_name = ''
